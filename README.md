@@ -125,7 +125,14 @@ Before running the script, update `ckpt_path` to point to your trained model che
 The script will automatically perform batch inference on the accuracy subset of TTA-Bench and compute AudioBox-AES, CLAPScore, and AQAScore (based on Qwen3-Omni-Instruct).
 
 ## Citation
-TODO
+```
+@article{li2026resonate,
+  title={Resonate: Reinforcing Text-to-Audio Generation via Online Feedback from Large Audio Language Models},
+  author={Li, Xiquan and Liu, Junxi and Chen, Wenxi and Zhu, Haina and Ma, Ziyang and Chen, Xie},
+  journal={arXiv preprint arXiv:2603.11661},
+  year={2026}
+}
+```
 
 ## Acknowledgement
 
